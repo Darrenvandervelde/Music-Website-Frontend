@@ -1,5 +1,5 @@
 # [Artist Name] Music Website
-![ [Artist Name] Music Website Preview](screenshot.png)
+![ [Artist Name] Music Website Preview](./assets/screenshot.png)
 Please click here to [view live demo](https://your-demo-url.vercel.app/)
 ---
 ## Overview
