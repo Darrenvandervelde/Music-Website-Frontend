@@ -1,12 +1,12 @@
-# SIBS Music Website
+# Music Website
 
-![SIBS Music Website Preview](./assets/screenshot.png)
+![Music Website Preview](./assets/screenshot.png)
 
-**Live Demo:** [View the SIBS Music Website](https://music-website-for-an-artist-called.vercel.app/)
+**Live Demo:** [View the Music Website](https://music-website-for-an-artist-called.vercel.app/)
 
 ## Overview
 
-The SIBS Music Website is a promotional website for SIBS, a Johannesburg-based rapper. The website is designed to showcase the artist's music, identity, biography and contact information through a modern, visually engaging interface.
+The Music Website is a promotional website for SIBS, a Johannesburg-based rapper. The website is designed to showcase the artist's music, identity, biography and contact information through a modern, visually engaging interface.
 
 The project focuses on responsive web design, custom styling, animated visual effects and an accessible layout that allows visitors to discover the artist and explore their music.
 
