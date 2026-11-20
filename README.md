@@ -60,7 +60,7 @@ A modern web browser and Git are recommended.
    cd Music-Website-Frontend
    ```
 
-3. Open `index.html` in your browser.
+3. Open `index.html` in your Chrome Browser
 
 No package installation is required for the current standalone HTML implementation.
 
